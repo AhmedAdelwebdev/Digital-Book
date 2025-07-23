@@ -1,7 +1,7 @@
 let currentBook = 0; 
 const Books = [
   {
-    id: 0, pages: 38, price: 50, 
+    id: 0, pages: 28, price: 20, 
     image: "/src/book1.jpg",
     rating: 4.9, reviews: 248,
     title: 'كيف تصنع دخلًا سلبيًا بـ AI',
