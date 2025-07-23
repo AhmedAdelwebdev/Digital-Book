@@ -37,7 +37,7 @@ function bookData(id) {
   $('Price').textContent = price +' جنية'; 
   $('rating').textContent = rating;
   $('pagesCount').textContent = pages;
-  $('vodafoneCode').textContent = `*9*01044197802*${price}#`;
+  $('vodafoneCode').textContent = `*9*7*01044197802*${price}#`;
   $('description').textContent = description;
   // Scroll To Top
   scrollTo(0,0);
